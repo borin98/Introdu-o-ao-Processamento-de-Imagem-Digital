@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="With some Exercises done until the number 4" />
+    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="With some Exercises done until the number 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/borinmacedo/GitRepo/annotat3dumal",
+    "last_opened_file_path": "/home/gabriel_macedo/GitRepos/Introducao-ao-Processamento-de-Imagem-Digital",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +59,7 @@
       <workItem from="1661283837245" duration="1368000" />
       <workItem from="1661370206235" duration="1571000" />
       <workItem from="1661428353142" duration="1870000" />
+      <workItem from="1663090123357" duration="631000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
