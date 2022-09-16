@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="O branch do trabalho 2 contém as imagens e uma implementação do método global">
+    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Fiz algumas implementações até o método do Phansalkar. Ainda preciso dar uma repaginada legal nesse repositório">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/gabriel_macedo/GitRepos/lbp-petro",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/gabriel_macedo/GitRepos/lbp-petro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Trabalhos/Trabalho 2/Imagens" />
@@ -74,7 +73,11 @@
       <workItem from="1663163675074" duration="3148000" />
       <workItem from="1663174679953" duration="24000" />
       <workItem from="1663243740696" duration="2704000" />
-      <workItem from="1663268463521" duration="2065000" />
+      <workItem from="1663268463521" duration="2389000" />
+      <workItem from="1663327948770" duration="1233000" />
+      <workItem from="1663347684926" duration="58000" />
+      <workItem from="1663347763123" duration="47000" />
+      <workItem from="1663347823855" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
@@ -104,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663244816906</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fiz algumas implementações até o método do Phansalkar. Ainda preciso dar uma repaginada legal nesse repositório">
+      <created>1663272539287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663272539287</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +135,7 @@
     <MESSAGE value="With some Exercises done until the number 4" />
     <MESSAGE value="Criando o branch Trabalho 2" />
     <MESSAGE value="O branch do trabalho 2 contém as imagens e uma implementação do método global" />
-    <option name="LAST_COMMIT_MESSAGE" value="O branch do trabalho 2 contém as imagens e uma implementação do método global" />
+    <MESSAGE value="Fiz algumas implementações até o método do Phansalkar. Ainda preciso dar uma repaginada legal nesse repositório" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fiz algumas implementações até o método do Phansalkar. Ainda preciso dar uma repaginada legal nesse repositório" />
   </component>
 </project>
