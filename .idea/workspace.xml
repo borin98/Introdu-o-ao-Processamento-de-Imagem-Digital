@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Acrecentei a função de label de máscara no código. Ainda não está muito funcional, mas está servindo pro propósito">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
@@ -88,6 +87,7 @@
       <workItem from="1663684445118" duration="2466000" />
       <workItem from="1663933114118" duration="10506000" />
       <workItem from="1663954854799" duration="3130000" />
+      <workItem from="1664109364586" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
