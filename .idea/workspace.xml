@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Falta só o método maluco do More e ai preciso só ducumentar, deixa o código um pouco mais clean e fazer o resto para as outras funções">
+      <change beforePath="$PROJECT_DIR$/.idea/Introducao-ao-Processamento-de-Imagem-Digital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introducao-ao-Processamento-de-Imagem-Digital.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
