@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Falta só o método maluco do More e ai preciso só ducumentar, deixa o código um pouco mais clean e fazer o resto para as outras funções">
+    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Foi Adicionado algumas funções mais gerais para o código. Ainda preciso terminar a parte 3 pra frente da implementação">
       <change beforePath="$PROJECT_DIR$/.idea/Introducao-ao-Processamento-de-Imagem-Digital.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introducao-ao-Processamento-de-Imagem-Digital.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/gabriel_macedo/GitRepos/Annotat3D&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/gabriel_macedo/GitRepos/Introducao-ao-Processamento-de-Imagem-Digital&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -63,6 +63,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Trabalhos/Trabalho 2" />
       <recent name="$PROJECT_DIR$/Trabalhos/Trabalho 2/Imagens" />
       <recent name="$PROJECT_DIR$/Exercises/Lista 1 - introdução a vetorização em python" />
     </key>
@@ -91,6 +92,8 @@
       <workItem from="1663933114118" duration="10506000" />
       <workItem from="1663954854799" duration="3130000" />
       <workItem from="1664109364586" duration="5037000" />
+      <workItem from="1664281149257" duration="44000" />
+      <workItem from="1664281215877" duration="3978000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
