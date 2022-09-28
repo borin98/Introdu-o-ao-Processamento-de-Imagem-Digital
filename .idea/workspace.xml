@@ -6,22 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="O código do Trabalho2Script.ipynb foi reformulado para usar a generic function do scipy. Eu ainda preciso fazer algumas modificações das funções e vou colocar para segmentar o pixel como objeto se ele for preto msm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 1/Trabalho1Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 1/Trabalho1Script.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/babbon_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/fiducial_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/retina_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/sonnet_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/wedge_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/Histogramas/histo_babbon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/Histogramas/histo_fiducial.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/Histogramas/histo_retina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/Histogramas/histo_sonnet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/Histogramas/histo_wedge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/fiducial_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/retina_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/sonnet_comparacao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/wedge_comparacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MétodoDeBersen/babbon_comparacao.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +93,7 @@
       <workItem from="1664109364586" duration="5037000" />
       <workItem from="1664281149257" duration="44000" />
       <workItem from="1664281215877" duration="3978000" />
+      <workItem from="1664364391252" duration="5811000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
