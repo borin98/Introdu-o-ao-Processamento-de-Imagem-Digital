@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="O código do Trabalho2Script.ipynb foi reformulado para usar a generic function do scipy. Eu ainda preciso fazer algumas modificações das funções e vou colocar para segmentar o pixel como objeto se ele for preto msm">
+    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Salvando um commit como checkpoint">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MétodoDeBersen/babbon_comparacao.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +91,7 @@
       <workItem from="1664109364586" duration="5037000" />
       <workItem from="1664281149257" duration="44000" />
       <workItem from="1664281215877" duration="3978000" />
-      <workItem from="1664364391252" duration="5811000" />
+      <workItem from="1664364391252" duration="8075000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
@@ -151,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664113444768</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Salvando um commit como checkpoint">
+      <created>1664371475789</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664371475789</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +181,7 @@
     <MESSAGE value="Esse commit contém o uso do método da média e mediana. Só falta utilizar o método do contraste e implementar o método do More" />
     <MESSAGE value="Acrecentei a função de label de máscara no código. Ainda não está muito funcional, mas está servindo pro propósito" />
     <MESSAGE value="Falta só o método maluco do More e ai preciso só ducumentar, deixa o código um pouco mais clean e fazer o resto para as outras funções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Falta só o método maluco do More e ai preciso só ducumentar, deixa o código um pouco mais clean e fazer o resto para as outras funções" />
+    <MESSAGE value="Salvando um commit como checkpoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Salvando um commit como checkpoint" />
   </component>
 </project>
