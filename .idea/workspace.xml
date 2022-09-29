@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Salvando um commit como checkpoint">
+    <list default="true" id="97ebb4ba-f680-410b-80cb-1a5289672dd6" name="Changes" comment="Esse commit contém uma modificação na porcentagem de pixels pretos que estavam sendo impressos de forma incorreta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/gabriel_macedo/GitRepos/Introducao-ao-Processamento-de-Imagem-Digital&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/gabriel_macedo/GitRepos/FSEG_Algoritm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -68,7 +67,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="" />
+      <changelist id="97ebb4ba-f680-410b-80cb-1a5289672dd6" name="Changes" comment="Esse commit contém uma modificação na porcentagem de pixels pretos que estavam sendo impressos de forma incorreta" />
       <created>1661283835890</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -92,6 +91,7 @@
       <workItem from="1664281149257" duration="44000" />
       <workItem from="1664281215877" duration="3978000" />
       <workItem from="1664364391252" duration="8075000" />
+      <workItem from="1664450968664" duration="1845000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
@@ -156,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664371475789</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Esse commit contém um merge com o Branch do Trabalho 2">
+      <created>1664380742162</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664380742162</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Esse commit contém uma modificação na porcentagem de pixels pretos que estavam sendo impressos de forma incorreta">
+      <created>1664381586391</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664381586391</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +196,8 @@
     <MESSAGE value="Acrecentei a função de label de máscara no código. Ainda não está muito funcional, mas está servindo pro propósito" />
     <MESSAGE value="Falta só o método maluco do More e ai preciso só ducumentar, deixa o código um pouco mais clean e fazer o resto para as outras funções" />
     <MESSAGE value="Salvando um commit como checkpoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="Salvando um commit como checkpoint" />
+    <MESSAGE value="Esse commit contém um merge com o Branch do Trabalho 2" />
+    <MESSAGE value="Esse commit contém uma modificação na porcentagem de pixels pretos que estavam sendo impressos de forma incorreta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esse commit contém uma modificação na porcentagem de pixels pretos que estavam sendo impressos de forma incorreta" />
   </component>
 </project>
