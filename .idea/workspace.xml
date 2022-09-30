@@ -4,37 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="um checkpoint. Parece que upei o arquivo errado">
+    <list default="true" id="67782f48-2cf6-48b0-81c4-8b629894c570" name="Changes" comment="Parece que tudo está estabilizado normalmente">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/babbon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/babbon_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/fiducial_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/fiducial_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/retina_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/retina_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/sonnet_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/sonnet_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/wedge_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoBersen/wedge_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/baboon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/baboon_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/fiducial_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/fiducial_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/sonnet_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/sonnet_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/wedge_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoContraste/wedge_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/babbon_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/fiducial_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/fiducial_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/retina_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/retina_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/sonnet_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/sonnet_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/wedge_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoGlobal/wedge_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/baboon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/baboon_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/fiducial_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/fiducial_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/retina_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/retina_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/sonnet_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/sonnet_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/wedge_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoMore/wedge_comparacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/babbon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/babbon_comparacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/fiducial_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/fiducial_comparacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/retina_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/retina_comparacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/sonnet_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/sonnet_comparacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/wedge_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoNiblack/wedge_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/babbon_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/babbon_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/fiducial_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/fiducial_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/retina_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/retina_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/sonnet_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/sonnet_comparacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/wedge_comparacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/ResultadosImagens/MetodoSauvola/wedge_comparacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 2/Trabalho2Script.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +97,7 @@
       <workItem from="1664281149257" duration="44000" />
       <workItem from="1664281215877" duration="3978000" />
       <workItem from="1664364391252" duration="8075000" />
-      <workItem from="1664558283869" duration="1486000" />
+      <workItem from="1664558283869" duration="2503000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
@@ -207,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664559168205</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Parece que tudo está estabilizado normalmente">
+      <created>1664559840246</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664559840246</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Parece que tudo está estabilizado normalmente">
+      <created>1664559876088</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664559876088</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +225,7 @@
     <MESSAGE value="Salvando um commit como checkpoint" />
     <MESSAGE value="Este commit contém modificações na função de plot, no qual não mostra mais uma linha do threshold e a modificação do método do contraste para segmentação" />
     <MESSAGE value="um checkpoint. Parece que upei o arquivo errado" />
-    <option name="LAST_COMMIT_MESSAGE" value="um checkpoint. Parece que upei o arquivo errado" />
+    <MESSAGE value="Parece que tudo está estabilizado normalmente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parece que tudo está estabilizado normalmente" />
   </component>
 </project>
