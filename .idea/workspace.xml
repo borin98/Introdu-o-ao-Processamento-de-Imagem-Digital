@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97ebb4ba-f680-410b-80cb-1a5289672dd6" name="Changes" comment="Ultimo commit do branch. O valor de niblack foi atualizado para ficar igual ao do relatório">
+    <list default="true" id="97ebb4ba-f680-410b-80cb-1a5289672dd6" name="Changes" comment="Esse commit contém uma atualização do Trabalho 3. Fiz o método de Floyd e Stein. Preciso ainda terminar os outros métodos e fazer o plot direito da msm forma que ele quer no relatório">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabalhos/Trabalho 3/Trabalho3Script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Trabalhos/Trabalho 3/Trabalho3Script.ipynb" afterDir="false" />
     </list>
@@ -50,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/gabriel_macedo/GitRepos/Introducao-ao-Processamento-de-Imagem-Digital",
+    "last_opened_file_path": "/home/gabriel_macedo/GitRepos/background",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,6 +93,7 @@
       <workItem from="1664281215877" duration="3978000" />
       <workItem from="1664364391252" duration="8075000" />
       <workItem from="1664450968664" duration="1845000" />
+      <workItem from="1664886541943" duration="2474000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664381586391</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Esse commit contém uma atualização do Trabalho 3. Fiz o método de Floyd e Stein. Preciso ainda terminar os outros métodos e fazer o plot direito da msm forma que ele quer no relatório">
+      <created>1664827836073</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664827836073</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +207,7 @@
     <MESSAGE value="Salvando um commit como checkpoint" />
     <MESSAGE value="Esse commit contém um merge com o Branch do Trabalho 2" />
     <MESSAGE value="Esse commit contém uma modificação na porcentagem de pixels pretos que estavam sendo impressos de forma incorreta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Esse commit contém uma modificação na porcentagem de pixels pretos que estavam sendo impressos de forma incorreta" />
+    <MESSAGE value="Esse commit contém uma atualização do Trabalho 3. Fiz o método de Floyd e Stein. Preciso ainda terminar os outros métodos e fazer o plot direito da msm forma que ele quer no relatório" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esse commit contém uma atualização do Trabalho 3. Fiz o método de Floyd e Stein. Preciso ainda terminar os outros métodos e fazer o plot direito da msm forma que ele quer no relatório" />
   </component>
 </project>
