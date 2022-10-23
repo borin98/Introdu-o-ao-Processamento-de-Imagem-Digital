@@ -97,7 +97,6 @@
       <workItem from="1664281149257" duration="44000" />
       <workItem from="1664281215877" duration="3978000" />
       <workItem from="1664364391252" duration="8075000" />
-      <workItem from="1664558283869" duration="2503000" />
     </task>
     <task id="LOCAL-00001" summary="With some Exercises done until the number 4">
       <created>1661371774867</created>
@@ -162,42 +161,7 @@
       <option name="project" value="LOCAL" />
       <updated>1664371475789</updated>
     </task>
-    <task id="LOCAL-00010" summary="Este commit contém modificações na função de plot, no qual não mostra mais uma linha do threshold e a modificação do método do contraste para segmentação">
-      <created>1664557601220</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1664557601220</updated>
-    </task>
-    <task id="LOCAL-00011" summary="um checkpoint. Parece que upei o arquivo errado">
-      <created>1664559164569</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1664559164569</updated>
-    </task>
-    <task id="LOCAL-00012" summary="um checkpoint. Parece que upei o arquivo errado">
-      <created>1664559168205</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1664559168205</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Parece que tudo está estabilizado normalmente">
-      <created>1664559840246</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1664559840246</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Parece que tudo está estabilizado normalmente">
-      <created>1664559876088</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1664559876088</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,9 +187,6 @@
     <MESSAGE value="Acrecentei a função de label de máscara no código. Ainda não está muito funcional, mas está servindo pro propósito" />
     <MESSAGE value="Falta só o método maluco do More e ai preciso só ducumentar, deixa o código um pouco mais clean e fazer o resto para as outras funções" />
     <MESSAGE value="Salvando um commit como checkpoint" />
-    <MESSAGE value="Este commit contém modificações na função de plot, no qual não mostra mais uma linha do threshold e a modificação do método do contraste para segmentação" />
-    <MESSAGE value="um checkpoint. Parece que upei o arquivo errado" />
-    <MESSAGE value="Parece que tudo está estabilizado normalmente" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parece que tudo está estabilizado normalmente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Salvando um commit como checkpoint" />
   </component>
 </project>
